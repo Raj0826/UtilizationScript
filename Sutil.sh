@@ -1,6 +1,6 @@
 #!/bin/bash
 date;
-echo "uptime of the server:"
+echo "uptime of the ubuntu server:"
 uptime
 echo "Currently connected:"
 w

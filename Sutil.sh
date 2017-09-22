@@ -2,7 +2,7 @@
 date;
 echo "uptime of the ubuntu server:"
 uptime
-echo "Currently connected:"
+echo "Currently connected server:"
 w
 echo "--------------------"
 echo "Last logins:"
